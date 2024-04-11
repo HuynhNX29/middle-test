@@ -1,0 +1,32 @@
+.screen {
+  width: 1440px;
+  height: 1024px;
+  top: -659px;
+  left: -1457px;
+  gap: 0px;
+  opacity: 0px;
+
+  background: #192026;
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center; */
+}
+
+.boxmodel-list {
+  width: 1170px;
+  height: 329.87px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#page {
+  margin-left:auto;
+  margin-right:auto;
+  /* width:960px; */
+}
+
+#gradientX{
+  background: linear-gradient(269.96deg, rgba(29, 29, 29, 0) 0.04%, rgba(29, 29, 29, 0.8) 99.5%);
+
+}
