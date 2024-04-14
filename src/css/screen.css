@@ -26,7 +26,8 @@
   /* width:960px; */
 }
 
-#gradientX{
-  background: linear-gradient(269.96deg, rgba(29, 29, 29, 0) 0.04%, rgba(29, 29, 29, 0.8) 99.5%);
+.gradientX{
+  height: 100%;
+  background-image: linear-gradient(269.96deg, rgba(29, 29, 29, 0) 0.04%, rgba(29, 29, 29, 0.8) 99.5%);
 
 }
